@@ -3,7 +3,7 @@
 *.cs diff=csharp text
 *.cginc text
 *.shader text
-*.shaderlab linguist-vendored=true
+*.shaders linguist-vendored=true
 *.cginc linguist-vendored=true
 
 *.mat merge=unityyamlmerge eol=lf

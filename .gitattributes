@@ -3,6 +3,8 @@
 *.cs diff=csharp text
 *.cginc text
 *.shader text
+*.shaders linguist-vendored=true
+*.cginc linguist-vendored=true
 
 *.mat merge=unityyamlmerge eol=lf
 *.anim merge=unityyamlmerge eol=lf
